@@ -1,0 +1,14 @@
+.container .row{
+    background: honeydew;
+    border-radius: 20px;
+
+}
+.card:hover{
+    background: darkblue;
+    color: white;
+    outline: white;
+    transform: scale(1.02);
+}
+.card{
+    box-shadow: 2px 4px 2px 2px darkblue;
+}
